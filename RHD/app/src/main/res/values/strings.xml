@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RHD</string>
+    <string name="main_web1">http://10.0.3.2/rhd/json/</string>
+    <string name="main_web">http://edutamamedia.com/rhd/json/</string>
+</resources>
